@@ -1,0 +1,20 @@
+{
+    "scripts": {
+        "test": "jest --watch",
+        "coverage": "jest --coverage"
+    },
+    "jest": {
+        "automock": false,
+        "verbose": false,
+        "collectCoverageFrom": [
+            "**/scripts/*.{js,jsx}"
+        ],
+        "setupFiles": [
+            "<rootDir>/setupJest.js"
+        ]
+    },
+    "devDependencies": {
+        "jest": "^23.6.0",
+        "jest-fetch-mock": "^2.1.0"
+    }
+}

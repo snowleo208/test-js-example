@@ -1,0 +1,70 @@
+[
+    {
+        "phase": "Entschuldigung!",
+        "trans": "Excuse me. [as in may I have your attention]."
+    },
+    {
+        "phase": "Sprechen Sie Englisch?",
+        "trans": "Do you speak English?"
+    },
+    {
+        "phase": "Ich spreche nicht viel Deutsch.",
+        "trans": "I don't speak much German."
+    },
+    {
+        "phase": "Können Sie das übersetzen?",
+        "trans": "Can you translate that for me?"
+    },
+    {
+        "phase": "Ich verstehe nicht.",
+        "trans": "I don't understand."
+    },
+    {
+        "phase": "Bitte wiederholen Sie!",
+        "trans": "Will you please repeat that?"
+    },
+    {
+        "phase": "Können Sie langsamer sprechen?",
+        "trans": "Could you speak slower?"
+    },
+    {
+        "phase": "Was brauchen Sie?",
+        "trans": "What do you need?"
+    },
+    {
+        "phase": "Ich brauche Auskunft.",
+        "trans": "I need some information."
+    },
+    {
+        "phase": "Ich brauche Hilfe.",
+        "trans": "I need some help."
+    },
+    {
+        "phase": "Ich habe mich verlaufen.",
+        "trans": "I'm lost."
+    },
+    {
+        "phase": "Wohin gehen Sie?",
+        "trans": "Where are you going?"
+    },
+    {
+        "phase": "Ich weiß nicht.",
+        "trans": "I don't know."
+    },
+    {
+        "phase": "Ich gehe zum Park.",
+        "trans": "I‘m going to the park."
+    },
+    {
+        "phase": "Das Museum ist nicht offen.",
+        "trans": "The museum isn't open."
+    },
+    {
+        "phase": "Kein Mensch versteht es. ",
+        "trans": "No one understands it."
+    },
+    {
+        "phase": "Darf ich mir einen Stadtplan ansehen?",
+        "trans": "May I see a map?"
+    }
+]

@@ -1,0 +1,73 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: rgba(79,195,247 ,1);
+    text-decoration: none;
+}
+
+a:visited,
+a:focus {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    margin: 0.5em 0;
+    padding: 0 1em;
+}
+
+.container h1 {
+    font-size: 1rem;
+}
+
+.disclaimer {
+    font-size: 0.8em;
+    font-weight: 400;
+    color: rgba(0,0,0,0.4);
+}
+
+.container__disable {
+    background: rgba(79,195,247 ,1);
+    border: 0;
+    border-radius: 0.5em;
+    color: white;
+    padding: 0.6em 1.2em;
+    transition: ease 300ms;
+    cursor: pointer;
+}
+
+.container__disable:hover {
+    background: rgba(3,155,229 ,1);
+}
+
+.lang-grid--item {
+    transition: ease 400ms;
+}
+
+.lang-grid--title {
+    font-size: 1em;
+    color: rgba(198,40,40 ,1);
+}
+
+.lang-grid--trans {
+    font-size: 1em;
+    color: rgba(144,164,174 ,1);
+    transition: ease 300ms;
+}
+
+.hide {
+    opacity: 0;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    transition: opacity ease 300ms;
+}
